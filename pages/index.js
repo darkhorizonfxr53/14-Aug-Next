@@ -33,6 +33,10 @@ const IndexPage = () => (
 			 	width: 60%; /* Set the maximum width of the image */
 			 	height: auto;
 			   }
+      			p {
+	 			font-family: font-family: arial, sans serif;
+     				font-size: 50px
+			}
 		 `}</style>
 
 		 <style global jsx>{`
