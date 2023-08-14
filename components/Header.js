@@ -27,7 +27,7 @@ const Header = ({ pageTitle }) => (
 
           .link{
             margin-top: 80px;
-            font-size: 80px;
+            font-size: 50px;
             font-family: arial, sans serif;
             margin-right: 30px
             colour: black
