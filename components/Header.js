@@ -31,6 +31,7 @@ const Header = ({ pageTitle }) => (
             font-family: arial, sans serif;
             margin-right: 30px
             colour: black
+            word-spacing:normal;
           }
         `}</style>
   </div>
