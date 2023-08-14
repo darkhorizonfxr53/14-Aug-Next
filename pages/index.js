@@ -5,8 +5,8 @@ const IndexPage = () => (
 	<div className="container">
 		<Header pageTitle="Projects Page" />
 		<div className="page-content" >
-			<h1>This is the projects page!</h1>
 			<img src="/ITPic.jpg" alt="a picture" />
+			<img src="/unnamed - 2021-10-22T103826.642.jpg" alt="a rage comic meme" />
       
 		 <p>Here below will be a link to my Github repository, which holds my developer projects. It contains a fully working webpage detailing myself as mentioned earlier</p>
 		 <a href='https://github.com/darkhorizonfxr53'></a>
